@@ -9,15 +9,6 @@ Desenvolvimento de um simples projeto CRUD (agenda de contatos) utilizando o ace
 - Uso de linguagens, como: JavaScript e CSS
 - Uso do framework Bootstrap para realização de um layout responsivo para o projeto.
 
-## Configuração do Projeto:
 
-- Executar a query pessoa.sql ou importar o arquivo no phpMyAdmin para criar a table necessária.
-- Editar o arquivo **banco.php** 
-
-```
-$dbNome = 'nomeDaTable' 
-$dbHost = 'nomeDoDominioOuIP:Porta' 
-$dbUsuario = 'usuarioDoMysql' 
-$dbSenha 'senhaDoUsuario'
 
 ```
